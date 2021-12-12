@@ -1,0 +1,2 @@
+# EmojiRush
+Emoji Rush
